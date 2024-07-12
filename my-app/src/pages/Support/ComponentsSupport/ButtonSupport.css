@@ -1,0 +1,11 @@
+.btn-group
+{
+    margin-left: 5%;
+    
+}
+.btnNext:hover{
+    background-color: rgb(235, 194, 166);
+}
+.btnPrev:hover{
+    background-color: rgb(235, 194, 166);
+}
